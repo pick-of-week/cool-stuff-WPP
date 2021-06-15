@@ -22,3 +22,5 @@ To setup google sheets api, first go to **[Google Sheets Docs][2]** and **[Googl
 # Variables Setup
 To setup the variables for this program go to `Backend/settings/vars.py`. 
 The variables are self-explanitory.
+
+[documentation](https://pick-of-week.github.io/cool-stuff-Docs/)
